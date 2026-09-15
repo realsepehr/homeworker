@@ -1,0 +1,1 @@
+# Mashqyar release rules
